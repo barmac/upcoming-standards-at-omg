@@ -1,4 +1,4 @@
-# Upcominds Standards at OMG
+# Upcoming Standards at OMG
 
 Main repo: https://github.com/omg-bpm-taskforces/omg-bpm-specs
 
